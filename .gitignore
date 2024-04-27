@@ -1,0 +1,3 @@
+# include env and nodemodules
+/env
+node_modules/
